@@ -62,10 +62,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrzin19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mrzin19&locale=pt-br&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Mrzin19&theme=onestar&column=5&row=1&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrzin19&radius=16&theme=github-dark&area=true&order=5&hide_title=false" height="320" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbuquerqueMarcelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlbuquerqueMarcelo&locale=pt-br&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AlbuquerqueMarcelo&theme=onestar&column=5&row=1&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbuquerqueMarcelo&radius=16&theme=github-dark&area=true&order=5&hide_title=false" height="320" alt="activity-graph graph"  />
 </div>
 
 ###
